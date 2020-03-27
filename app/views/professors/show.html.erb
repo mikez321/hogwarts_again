@@ -4,3 +4,8 @@
 <% @professor.students.each do |student| %>
   <%= student.name %><br/>
 <% end %>
+
+<% ages = @professor.students.map do |student|%>
+  <% student.age %>
+<% end %>
+<p>Average Student Age: <%= (ages.sum) / (ages.length) %></p>

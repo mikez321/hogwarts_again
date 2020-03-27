@@ -209,12 +209,42 @@
           null,
           1,
           1,
+          null,
+          1,
           null
         ]
       },
       "/Users/mike/turing/mod2/challenges/hogwarts_again/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/mike/turing/mod2/challenges/hogwarts_again/spec/features/professors/professor_shows_students_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -233,6 +263,7 @@
           null,
           null,
           null,
+          null,
           1,
           null,
           1,
@@ -242,6 +273,47 @@
           1,
           1,
           1,
+          null,
+          null
+        ]
+      },
+      "/Users/mike/turing/mod2/challenges/hogwarts_again/spec/features/students/student_index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
           null,
           null
         ]
@@ -345,7 +417,7 @@
           null,
           null,
           1,
-          1,
+          2,
           null,
           null
         ]
@@ -356,8 +428,18 @@
           1,
           null
         ]
+      },
+      "/Users/mike/turing/mod2/challenges/hogwarts_again/app/controllers/students_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1585324300
+    "timestamp": 1585326511
   }
 }
