@@ -10,6 +10,7 @@ RSpec.describe "when I visit /professors I see a list of professors" do
     professor_2 = Professor.create!(name: "Jim",
                                     age: "40",
                                     specialty: "Magic")
+                                    
 
    visit '/professors'
 
